@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/casp3r0x0" target="blank"><img src="https://img.shields.io/twitter/follow/casp3r0x0?logo=twitter&style=for-the-badge" alt="casp3r0x0" /></a> </p>
 
-- 🔭 I’m currently working on **BugBounty Hunting**
-
-- 🌱 I’m currently learning **Binary exploitation**
-
-- 👯 I’m looking to collaborate on **Any project I like**
+- 🔭 Red Team Operations Leader
 
 - 👨‍💻 All of my projects are available at [casp3r0x0](casp3r0x0)
 
-- 📝 I regularly write articles on [https://medium.com/@casp3r0x0](https://medium.com/@casp3r0x0)
+- 📝 I regularly write articles on [https://www.pwntricks.com/](https://www.pwntricks.com/)
 
 - 📫 How to reach me **Via linkedIn**
 
